@@ -18,13 +18,15 @@ int main() {
     int i;
 
     // ==================== START MODULE D ==========================
-    cout << endl;
-    cout << "+======================================================+" << endl;
-    cout << "|         ALGORITHMIC TRADING BACKTESTER                |" << endl;
-    cout << "|     Module D - Result Reporting & Chat-bot            |" << endl;
-    cout << "|              Awais (25i-5647)                         |" << endl;
-    cout << "+======================================================+" << endl;
-    cout << endl;
+    system("chcp 65001 > nul");
+    cout << " ████╗  ██╗                 █████╗  \n";
+    cout << "██╔═██╗ ██║  ████╗   ████╗  ██╔══██╗\n";
+    cout << "██████║ ██║ ██╔═██╗ ██╔═██╗ ██████╔╝\n";
+    cout << "██╔═██║ ██║ ██║ ██║ ██║ ██║ ██╔══██╗\n";
+    cout << "██║ ██║ ██║ ╚█████║ ╚████╔╝ ██████╔╝\n";
+    cout << "╚═╝ ╚═╝ ╚═╝  ╚══██║  ╚═══╝  ╚═════╝ \n";
+    cout << "              ████║                 \n";
+    cout << "              ╚═══╝                 \n";
 
     // These values come from Module C's output
     cout << "--- Paste the Result String from Module C Below ---" << endl;
