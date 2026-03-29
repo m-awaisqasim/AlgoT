@@ -23,7 +23,6 @@ int main() {
 
     receiveData();
     displaySummary();
-    calculateRating();
     drawEquityCurve();
     startChatbot();
 
